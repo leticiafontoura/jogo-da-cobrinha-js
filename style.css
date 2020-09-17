@@ -1,0 +1,16 @@
+body {
+  background-color: #132743;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #ffcbcb;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
