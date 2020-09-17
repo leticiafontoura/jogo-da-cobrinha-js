@@ -2,7 +2,8 @@ body {
   background-color: #132743;
 }
 
-h1 {
+h1,
+h4 {
   display: flex;
   justify-content: center;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
